@@ -1,4 +1,4 @@
-name: 'Hola Mundo'
+name: 'Test-Hugo-first-steps'
 description: 'Saludar a alguien y guardar la fecha'
 inputs:
   who-to-greet: #id of input
